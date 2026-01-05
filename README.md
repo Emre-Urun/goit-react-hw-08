@@ -7,7 +7,7 @@
 
 Kullanıcıların kendi hesaplarını oluşturup, güvenli bir şekilde kişisel telefon rehberlerini yönetebilecekleri, tam kapsamlı bir React uygulaması. Bu proje, **Authentication (Kimlik Doğrulama)** süreçlerini, **Redux Toolkit** ile global state yönetimini ve **Material UI** ile modern tasarım prensiplerini içerir.
 
-🔗 **Canlı Demo:** goit-react-hw-08-roan-theta.vercel.app
+🔗 **Canlı Demo:** (goit-react-hw-08-roan-theta.vercel.app)
 
 ---
 
